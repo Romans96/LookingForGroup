@@ -8,7 +8,8 @@ It's a Discord Bot that permit to group and search other people joining Server P
 
 ### Bot Issues?
 
-Contact the Developer on Discord, or open an Issue here, on GitHub
+Contact the Developer on Discord, or open an Issue Discussione here on GitHub on the [Issue Tab](https://github.com/Romans96/LookingForGroup/issues)
+
 
 ### Developer
 Romans96 ~ Discord Contact: Romans96#9381
