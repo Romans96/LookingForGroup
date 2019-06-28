@@ -5,13 +5,17 @@
 
 It's a Discord Bot that permit to group and search other people joining Server Personalized Roles, that can be setted by an Admin on the LFG Database, for a determinated time, in order to search a group using a taggable role.
 
+```
+Basically, you have to create the roles that you want to use to Search a Group, make it mentionable, and add it to the LFG Database to use it
+```
+
 ## Inviting the Bot
 
 ## Base Commands
 After you invited the LFG Bot on your Server, it automatically add your Guild/server into the LFG Database, and you can start using the Bot and his commands:
 - Use g!lfg -help in order to show the list of all Available commands;
 - Users Commands (All the commands that all the Users can use):
-  - g!lfg @role => Adds a role to your profile
+  - `g!lfg @role` => Adds a role to your profile
 
 
 ## Bot Issues?
