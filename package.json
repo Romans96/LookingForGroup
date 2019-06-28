@@ -7,7 +7,7 @@
     "LFG",
     "Looking for Group"
   ],
-  "author": "Romans96#9381",
+  "author": "Romans96",
   "license": "ISC",
   "dependencies": {
     "discord.js": "^11.5.1",
