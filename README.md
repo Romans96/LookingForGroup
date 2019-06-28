@@ -9,10 +9,10 @@ It's a Discord Bot that permit to group and search other people joining Server P
 Basically, you have to create the roles that you want to use to Search a Group, 
 make it mentionable, and add it to the LFG Database to use it
 ```
-- Example:
-  - g!lfg -role add @PC => I add to the LFG Database the PC Role (Admin Command);
+- **Examples**:
+  - **`g!lfg -role add @PC`** => I add to the LFG Database the PC Role (Admin Command);
 
-  - g!lfg @PC => I Activate that role on my profile (for an Admin determinated time) and who will mention the role @PC for that time, he tag me
+  - **`g!lfg @PC`** => I Activate that role on my profile (for an Admin determinated time) and who will mention the role @PC for that time, he tag me
 
 
 ## Inviting the Bot
@@ -21,10 +21,17 @@ make it mentionable, and add it to the LFG Database to use it
 After you invited the LFG Bot on your Server, it automatically add your Guild/server into the LFG Database, and you can start using the Bot and his commands:
 - Use **`g!lfg -help`** in order to show the list of all Available commands;
 - Admin Commands (All the commands using to configure the Bot (Only users with Admin role can use them):
-  - `g!lfg -adminrole` => Can be used only from the Server Owner. Set the Administration Role for the Server;
-  - `` =>
+  - **`g!lfg -adminrole`** => Can be used only from the Server Owner. Set the Administration Role for the Server;
+  - **``** =>
+  - **``** =>
+  - **``** =>
 - Users Commands (All the commands that all the Users can use):
-  - `g!lfg @role` => Adds a role to your profile
+  - **`g!lfg @role`** => Adds a role to your profile
+  - **``** =>
+  - **``** =>
+  - **``** =>
+  - **``** =>
+  - **``** =>
 
 
 ## Bot Issues?
