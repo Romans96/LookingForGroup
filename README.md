@@ -1,5 +1,5 @@
 # Role Looking For Group (LFG)
-% Links
+
 
 ## About LFG
 
@@ -15,7 +15,7 @@ make it mentionable, and add it to the LFG Database to use it
 
 
 ## Inviting the Bot
-You cna invite the Bot going [HERE](https://discordapp.com/api/oauth2/authorize?client_id=578362712061378572&permissions=268958800&scope=bot)
+You caa invite the Bot going [HERE](https://discordapp.com/api/oauth2/authorize?client_id=578362712061378572&permissions=268958800&scope=bot)
 
 ## Base Commands
 After you invited the LFG Bot on your Server, it automatically add your Guild/server into the LFG Database, and you can start using the Bot and his commands:
