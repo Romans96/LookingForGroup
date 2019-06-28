@@ -1,5 +1,6 @@
 # Role Looking For Group (LFG)
-
+![issues](https://img.shields.io/github/issues/Romans96/LookingForGroup.svg?style=popout)
+![license](https://img.shields.io/github/license/Romans96/LookingForGroup.svg?color=blue&style=popout)
 
 ## About LFG
 
