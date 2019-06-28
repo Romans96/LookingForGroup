@@ -11,8 +11,7 @@ make it mentionable, and add it to the LFG Database to use it
 ```
 - **Examples**:
   - **`g!lfg -role add @PC`** => I add to the LFG Database the PC Role (Admin Command);
-
-  - **`g!lfg @PC`** => I Activate that role on my profile (for an Admin determinated time) and who will mention the role @PC for that time, he tag me
+  - **`g!lfg @PC`** => I Activate that role on my profile (for an Admin determinated time) and who will mention the role @PC for that time, he tags me
 
 
 ## Inviting the Bot
@@ -22,6 +21,8 @@ After you invited the LFG Bot on your Server, it automatically add your Guild/se
 - Use **`g!lfg -help`** in order to show the list of all Available commands;
 - Admin Commands (All the commands using to configure the Bot (Only users with Admin role can use them):
   - **`g!lfg -adminrole`** => Can be used only from the Server Owner. Set the Administration Role for the Server;
+  - **`g!lfg -config`** => It shows the configuration Settings of the Server
+  - **``** =>
   - **``** =>
   - **``** =>
   - **``** =>
