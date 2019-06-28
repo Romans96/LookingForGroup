@@ -3,7 +3,7 @@
 ![license](https://img.shields.io/github/license/Romans96/LookingForGroup.svg?color=blue&style=popout)
 
 ## About LFG
-![LFG Logo](https://i.imgur.com/7jsbIa0.png?width=600&height=600)
+![LFG Logo](https://i.imgur.com/FsxGlfN.png)
 
 It's a Discord Bot that permit to group and search other people joining Server Personalized Roles, that can be setted by an Admin on the LFG Database, for a determinated time, in order to search a group using a taggable role.
 
