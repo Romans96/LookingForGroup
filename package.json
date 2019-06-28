@@ -1,0 +1,19 @@
+{
+  "name": "lfg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [
+    "LFG",
+    "Looking for Group"
+  ],
+  "author": "Romans96#9381",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "fs": "0.0.1-security",
+    "pg": "^7.11.0",
+    "pg-hstore": "^2.3.3",
+    "sequelize": "^5.8.12"
+  }
+}
