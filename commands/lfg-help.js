@@ -9,10 +9,10 @@ module.exports = {
         }
 
         const embed = new Discord.RichEmbed()
-            // .attachFiles(['./ICON/logo_lfg.png'])
+            .attachFiles(['./ICON/logo_lfg.png'])
             .setAuthor(`<LFG> Help <LFG>`, msg.author.avatarURL)
             .setDescription( lang("help", myGuildLang) )
-            // .setThumbnail('attachment://logo_lfg.png')
+            .setThumbnail('attachment://logo_lfg.png')
 
         return msg.channel.send(embed)
     }
