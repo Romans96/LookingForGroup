@@ -1,4 +1,15 @@
-# LookingForGroup
-An LFG Bot that permit to search other people joining Server Personalized Roles for a determinated time
+# Role Looking For Group (LFG)
+% Links
 
-![Discord](https://img.shields.io/discord/468773903041560587.svg?label=Official%20Discord)
+## About LFG
+
+It's a Discord Bot that permit to group and search other people joining Server Personalized Roles, that can be setted by an Admin on the LFG Database, for a determinated time, in order to search a group using a taggable role.
+
+
+### Bot Issues?
+
+Contact the Developer on Discord, or open an Issue here, on GitHub
+
+### Developer
+Romans96 ~ Discord Contact: Romans96#9381
+
