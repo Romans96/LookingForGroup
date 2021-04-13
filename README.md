@@ -15,9 +15,10 @@ make it mentionable, and add it to the LFG Database to use it
   - **`g!lfg -role add @PC`** => I add to the LFG Database the PC Role (Admin Command);
   - **`g!lfg @PC`** => I Activate that role on my profile (for an Admin determinated time) and who will mention the role @PC for that time, he tags me
 
-
+<!--
 ## Inviting the Bot
 You caa invite the Bot going [HERE](https://discordapp.com/api/oauth2/authorize?client_id=578362712061378572&permissions=268958800&scope=bot)
+-->
 
 ## Base Commands
 After you invited the LFG Bot on your Server, it automatically add your Guild/server into the LFG Database, and you can start using the Bot and his commands:
