@@ -21,7 +21,7 @@ You caa invite the Bot going [HERE](https://discordapp.com/api/oauth2/authorize?
 -->
 
 ## Base Commands
-After you invited the LFG Bot on your Server, it automatically add your Guild/server into the LFG Database, and you can start using the Bot and his commands:
+After you invited the LFG Bot on your Server, it automatically add your Server into the LFG Connected Database, and you can start using the Bot and his commands:
 - Use **`g!lfg -help`** in order to show the list of all Available commands;
 
 - Admin Commands (All the commands using to configure the Bot (Only users with Admin role can use them):
